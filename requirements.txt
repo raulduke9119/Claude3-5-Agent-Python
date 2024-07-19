@@ -1,0 +1,12 @@
+anthropic
+python-dotenv
+rich
+requests
+nltk
+pylint
+autopep8
+beautifulsoup4
+Pillow
+pydantic
+tavily-python
+transformers
